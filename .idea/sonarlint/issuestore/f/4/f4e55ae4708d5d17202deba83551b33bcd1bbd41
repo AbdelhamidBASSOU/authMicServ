@@ -1,0 +1,8 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸õ¨¯úÿÿÿÿ8‰Óý”á0
+b
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(‹ÊÐóþÿÿÿÿ8µÓý”á0
+b
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(¸õ¨¯úÿÿÿÿ8»Óý”á0
+u
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡ž¸Îùÿÿÿÿ8Óóþ•á0
