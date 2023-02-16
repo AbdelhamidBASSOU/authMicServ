@@ -16,7 +16,6 @@ import java.util.Set;
 
 @SpringBootApplication
 @EnableGlobalMethodSecurity(prePostEnabled = true,securedEnabled = true)
-
 public class DemoApplication {
 
 	public static void main(String[] args) {

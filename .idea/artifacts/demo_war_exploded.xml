@@ -68,8 +68,14 @@
           <element id="library" level="project" name="Maven: jakarta.activation:jakarta.activation-api:1.2.2" />
           <element id="library" level="project" name="Maven: org.springframework:spring-core:5.3.24" />
           <element id="library" level="project" name="Maven: org.springframework:spring-jcl:5.3.24" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-oauth2-resource-server/2.7.7-SNAPSHOT/spring-boot-starter-oauth2-resource-server-2.7.7-20221222.092404-18.jar" output-file-name="spring-boot-starter-oauth2-resource-server-2.7.7-SNAPSHOT.jar" />
           <element id="library" level="project" name="Maven: org.springframework.security:spring-security-core:5.7.6" />
           <element id="library" level="project" name="Maven: org.springframework.security:spring-security-crypto:5.7.6" />
+          <element id="library" level="project" name="Maven: org.springframework.security:spring-security-oauth2-resource-server:5.7.6" />
+          <element id="library" level="project" name="Maven: org.springframework.security:spring-security-oauth2-core:5.7.6" />
+          <element id="library" level="project" name="Maven: org.springframework.security:spring-security-oauth2-jose:5.7.6" />
+          <element id="library" level="project" name="Maven: com.nimbusds:nimbus-jose-jwt:9.22" />
+          <element id="library" level="project" name="Maven: com.github.stephenc.jcip:jcip-annotations:1.0-1" />
           <element id="library" level="project" name="Maven: com.auth0:java-jwt:3.11.0" />
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.13.4.2" />
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.13.4" />
